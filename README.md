@@ -70,6 +70,7 @@ Todo el contenido publicado es modificable, si tu quieres colaborar, ves errores
 # Tabla de contenido
 - [Introduccion](#Introduccion)
     - [Instalacin](#Instalacion)
+    - [Herramientas](#Herramientas)
 
 # <a name="Introduccion">Introduccion</a>
 ## <a name="Instalacion">Instalacion</a>
@@ -123,12 +124,23 @@ sudo yum install python
 
 ### Ejecución de Python
 
-Para ejecutar Python, abre la terminal y escribe. Dependiendo de la versión que tengas instalada.
+Para ejecutar Python, abre la terminal y escribe:
 
 ```sh
 
+# Dependiendo de la versión que tengas instalada
 python
 # O
 python3
 
 ```
+
+## <a name="Herramientas">Herramientas</a>
+
+### Visual Studio Code
+
+Visual Studio Code (VS Code) es un editor de código fuente gratuito y potente. Para instalar Visual Studio Code, ve al <a href="https://code.visualstudio.com/" target="_blank">sitio oficial de Visual Studio Code</a>. Instala Visual Studio Code siguiendo las instrucciones proporcionadas.
+
+### Extensión para ejecutar código Python
+
+Para ejecutar código Python directamente en Visual Studio Code, necesitas instalar la extensión de Python, desarrollada por Microsoft.
